@@ -4,7 +4,7 @@ A frontend clone of Amazon built using HTML and CSS, focusing on recreating the 
 
 ## 📸 Preview
 
-![Amazon Clone](Amzon Clone.png)
+![Amazon Clone](Amzon Clone .png)
 
 ## 🛠️ Tech Stack
 
